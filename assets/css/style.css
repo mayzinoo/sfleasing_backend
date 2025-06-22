@@ -1,0 +1,434 @@
+.no_padding{
+  padding: 0px !important;
+}
+.sm_padding{
+  padding-top: 10px !important;
+  padding-bottom: 10px !important;
+}
+.sm_toppadding{
+  padding-top: 10px !important;
+}
+.md_padding{
+  padding-top: 80px !important;
+  padding-bottom: 80px !important;
+}
+.md_toppadding{
+  padding-top: 80px !important;
+}
+.lg_padding{
+  padding-top: 120px !important;
+  padding-bottom: 120px !important;
+}
+.sm_sidepadding{
+  padding-left: 10px !important;
+  padding-right: 10px !important;
+}
+.md_sidepadding{
+  padding-left: 80px !important;
+  padding-right: 80px !important;
+}
+.lg_sidepadding{
+  padding-left: 120px !important;
+  padding-right: 120px !important;
+}
+.sm_leftsidepadding{
+  padding-left: 20px !important;
+}
+.md_leftsidepadding{
+  padding-left: 80px !important;
+}
+.lg_leftsidepadding{
+  padding-left: 150px !important;
+}
+.sm_bottompadding{
+  padding-bottom: 10px !important;
+}
+.md_bottompadding{
+  padding-bottom: 30px !important;
+}
+.sm_topmargin{
+  margin-top: 10px !important;
+}
+.md_topmargin{
+  margin-top: 30px !important;
+}
+/**/
+
+
+/*change theme color*/
+
+/*end*/
+p{
+  color:  #000 !important;
+}
+.mdl-card__title h1{
+	color: #f9d2cd !important;
+  float: left;
+}
+.mdl-data-table{
+	font-size: 14px !important;
+}
+
+.card-title {
+  float: left;  
+  margin: 0;
+}
+.card-tools {
+  float: right;
+  margin-right: -.625rem;
+}
+.nav {
+  list-style: none;
+}
+.modal-backdrop{
+  position: inherit !important;
+}
+.nav > li > a:focus, .nav > li > a:hover{
+  text-decoration: none;
+  background: none !important;
+}
+.modal-content{
+  margin-top: 78px;
+}
+.mdl-card__title{
+  display: initial !important;
+  padding: 10px 16px !important;
+}
+.mdl-data-table{
+  white-space: normal !important;
+}
+
+.modal-xl {
+  width: 1140px !important;
+}
+.box-content{
+  padding: 20px;
+  
+}
+.model-detail{
+  border-radius: 10px;
+  padding: 15px 45px;
+  background: rgba(247, 205, 199, 0.2);
+}
+.model-detail p,
+.model-detail2 p
+{
+  color: #000 !important;
+}
+.model-detail2{
+  border-radius: 10px;
+  padding: 0px 15px 15px;
+  background: rgba(247, 205, 199, 0.2);
+}
+.model-detail2 .nav-link{
+  padding: 0px !important;
+}
+.mini-title{
+  /*font-size: .875rem;*/
+  line-height: 1.25rem;
+  --tw-text-opacity: 1;
+  color: #807e7e;
+}
+.vehiclephoto{
+  width: 270px;
+  height: auto;
+}
+.showgallery{
+  text-align: center !important;
+}
+.minicard_title{
+  background-color: #333;
+  display: flow-root;
+  padding: 10px 16px !important;
+  perspective-origin: 165px 56px;
+transform-origin: 165px 56px;
+box-sizing: border-box;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+}
+.minicard_title span{
+  float: left !important;
+  display: flex;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: normal;
+  overflow: hidden;
+  transform-origin: 149px 48px;
+  margin: 0;
+}
+.cover-img{
+  width: 350px;
+  height: auto;
+}
+.galleryphoto{
+  width: 350px !important;
+  height: 150px;
+}
+.pagegi {
+  text-align: center;
+  margin-top: 20px;
+}
+ul.pagegi li {
+  display: inline-block;
+  list-style: none;
+}
+.pagegi li {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+ul.pagegi li a:hover, ul.pagegi li a.current {
+  color: #fff !important;
+  background-color: #ff4242;
+}
+ul.pagegi li a {
+  display: block;
+  width: 40px;
+  height: 40px;
+  line-height: 40px;
+  text-align: center;
+  border-radius: 4px;
+  margin: 5px;
+  box-shadow: inset 0 5px 10px rgba(0, 0, 0, 0.1), 0 2px 5px rgba(0, 0, 0, 0.5);
+  transition: all 0.3s ease;
+}
+.current {
+  font-weight: bold;
+  text-decoration: underline !important;
+}
+.modal-body p{
+  color: #a6a3a3 !important;
+}
+.license-img
+{
+  width: 180px;
+  height: auto;
+}
+.formimg{
+  width: 120px;
+  height: auto;
+}
+#modal-new-vehicles .select2-container .select2-search--inline .select2-search__field{
+  margin-top: 3px !important;
+}
+#modal-new-vehicles .select2-container .select2-selection--single{
+  height: 34px !important;
+}
+#upload_vehicles h5{
+  margin-top: 0px !important;
+}
+.choosepackage,.choosepackage2{
+  /*background: #ddd;*/
+padding: 4px 12px;
+margin: 5px auto;
+border: 1px solid #ddd;
+box-shadow: 0 2px 3px 0px #777;
+}
+
+.chosepkg{
+  float: left;
+}
+.chosepkg-right{
+  float: right;
+  margin-top: -6px;
+  margin-bottom: -6px;
+  position: relative;
+}
+.chosepkg-right a{
+  color: #fff;
+  font-weight: bold;
+}
+.mdl-navigation__link{
+  line-height: 18px !important;
+}
+.editortxt
+{
+  color: #d04646 !important;
+  font-weight: bold;
+  font-size: 16px;
+}
+.admintxt{
+  color: #5cb85c !important;
+  font-weight: bold;
+  font-size: 16px;
+}
+.package,.package2{
+  display: flex;  
+}
+.pkginfo,.pkginfo2{
+  position: relative;
+  padding: 12px 1.25rem;
+  background: #4f2a2a;
+}
+
+.select2-container--default .select2-selection--multiple .select2-selection__choice{
+  background-color: #00bcd4 !important;
+border-color: #00bcd4 !important;
+color: #fff !important;
+padding: 0 10px !important;
+margin-top: .31rem !important;
+}
+.select2-container--default .select2-selection--multiple .select2-selection__choice__remove {
+  color: rgba(255,255,255,.7) !important;
+  float: right !important;
+  margin-left: 5px !important;
+  margin-right: -2px !important;
+}
+.input-group{
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: stretch;
+  width: 100%;
+}
+.input-group-append, 
+.input-group-prepend{
+  display: flex;
+}
+.input-group-text{
+  display: flex;
+  align-items: center;
+  padding: .375rem .75rem;
+  margin-bottom: 0;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #495057;
+  text-align: center;
+  white-space: nowrap;
+  background-color: #e9ecef;
+  border: 1px solid #ced4da;
+  border-radius: .25rem;
+}
+.input-group > .custom-file, .input-group > .custom-select, .input-group > .form-control, .input-group > .form-control-plaintext{
+  position: relative;
+  flex: 1 1 0%;
+  min-width: 0;
+  margin-bottom: 0
+}
+.input-group > .custom-select:not(:last-child), .input-group > .form-control:not(:last-child){
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+}
+.invoicelist .btn-group-sm > .btn, .btn-sm{
+  font-size: 15px !important;
+}
+#vpkg .table-striped > tbody > tr:nth-of-type(2n+1){
+  background: none !important;
+}
+#vpkg .table > tbody > tr > td, .table > tbody > tr > th, .table > tfoot > tr > td, .table > tfoot > tr > th, .table > thead > tr > td, .table > thead > tr > th{
+  border-top: 0px !important;
+}
+#vpkg .table > thead > tr > th{
+  border-bottom: 0px !important;
+}
+.btn-group-xs > .btn, .btn-xs{
+  font-size: 12px !important;
+}
+
+.mdl-layout__drawer header{
+  font-size: 16px !important;
+}
+.cmylog{
+  width: 85px;
+  height: auto;
+  margin: 0 auto;
+  margin-top: 11px;
+}
+.mdl-layout--fixed-drawer > .mdl-layout__drawer header{
+  height: none !important;
+  background: none !important;
+}
+label.error{
+  font-weight: normal !important;
+color: #d93c3c;
+}
+.mdl-layout__drawer .mdl-navigation .mdl-navigation__link{
+  color: #ccc !important;
+}
+.car_docu p{
+  word-break: break-all !important;
+}
+.vehicle-photos{
+  width: 100%;
+  height: 150px;
+}
+.text-danger{
+  font-size: 11px !important;
+}
+
+.mdl-layout__header .mdl-layout__drawer-button{
+  color: #ccc !important;
+}
+.mdl-layout__header-row,
+.mdl-layout__header .mdl-layout__drawer-button,
+.mdl-card__title,
+.mdl-layout__drawer
+ {
+  background-color: #4f2a2a !important;
+}
+.mdl-data-table.bordered-table td, .mdl-data-table.bordered-table th {
+  border-right: 1px solid #ccc;
+  border-top: 1px solid #ccc;
+  border-bottom: 1px solid #ccc;
+  color: #000;
+}
+.mdl-data-table td a{
+  color: #fff !important;
+}
+.mdl-data-table thead{
+  border-top: 1px solid #ccc;
+}
+.btn-primary ,.color--light-blue,.btn-danger{
+  color: #fff !important;
+  background-color: #912422 !important;
+  border-color: #912422;
+}
+.btn-primary:hover,.btn-danger:hover{
+  border-color: #d28383;
+  color: #fff !important;
+}
+a{
+  color: #f02727 !important;
+}
+.mdl-layout__drawer .mdl-navigation .mdl-navigation__link--current .material-icons, .mdl-layout__drawer .mdl-navigation .mdl-navigation__link:hover, .mdl-layout__drawer .mdl-navigation .mdl-navigation__link:hover .material-icons{
+  color: #fff !important;
+}
+.mdl-menu__container.is-visible .mdl-menu,.avatar-dropdown:hover{
+  background: #6e1b17 !important;
+}
+.chosepkg-right span{
+  color: #ccc;
+}
+.mdl-card__supporting-text{
+background: #fff !important;
+}
+.mdl-data-table tbody tr{
+  border-bottom: 1px solid #ccc;
+}
+.account-dropdown .mdl-list__item:hover .mdl-list__item-icon{
+  color: #fff !important;
+}
+#modal-paymentstatus .select2-container--default .select2-selection--single{
+  height: 34px;
+  border: 1px solid #ccc !important;
+}
+.ui-tables table{
+  background: #fff !important;
+  color: #000 !important;
+}
+.mdl-card{
+  background: #fff;
+}
+.mdl-data-table tbody tr:hover {
+  background-color: rgba(247, 205, 199,0.2) !important;
+}
+.mdl-data-table th{
+  color: #000 !important;
+}
+.getmdl-select .mdl-menu .mdl-menu__item, .mdl-textfield input, .mdl-textfield textarea{
+  color: #000 !important;
+}
+.brandphotos{
+  width: 130px !important;
+  height: auto;
+}
